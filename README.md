@@ -7,7 +7,7 @@
 
 ### 1. [Security Operations Center (SOC)](https://www.coursera.org/learn/security-operations-center-soc?specialization=cbrops)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/8DY84W9UHRD2_
 #
 
 ### 2. [Endpoints and Systems](https://www.coursera.org/learn/endpoints-and-systems?specialization=cbrops)
