@@ -12,7 +12,7 @@
 
 ### 2. [Endpoints and Systems](https://www.coursera.org/learn/endpoints-and-systems?specialization=cbrops)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/2BNJ8GV4GDQ5_
 #
 
 ### 3. [Network Security](https://www.coursera.org/learn/network-security?specialization=cbrops)
