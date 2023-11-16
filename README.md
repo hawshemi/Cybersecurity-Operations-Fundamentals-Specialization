@@ -17,7 +17,7 @@
 
 ### 3. [Network Security](https://www.coursera.org/learn/network-security?specialization=cbrops)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/V4HG3EP3YUTY_
 #
 
 ### 4. [Data Security](https://www.coursera.org/learn/data-security?specialization=cbrops)
