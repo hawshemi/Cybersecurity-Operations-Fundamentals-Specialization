@@ -22,7 +22,7 @@
 
 ### 4. [Data Security](https://www.coursera.org/learn/data-security?specialization=cbrops)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/XXWVB66XYFCV_
 #
 
 ### 5. [Threat Analysis](https://www.coursera.org/learn/threat-analysis?specialization=cbrops)
