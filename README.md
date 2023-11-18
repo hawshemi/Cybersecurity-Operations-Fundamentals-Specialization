@@ -27,7 +27,7 @@
 
 ### 5. [Threat Analysis](https://www.coursera.org/learn/threat-analysis?specialization=cbrops)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/T26ZSNRX9AW8_
 #
 
 ### 6. [Threat Investigation](https://www.coursera.org/learn/threat?specialization=cbrops)
