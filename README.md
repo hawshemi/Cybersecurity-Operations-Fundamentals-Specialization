@@ -32,7 +32,7 @@
 
 ### 6. [Threat Investigation](https://www.coursera.org/learn/threat?specialization=cbrops)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/9ED5KYCBCG28_
 #
 
 ### 7. [Threat Response](https://www.coursera.org/learn/threat-response?specialization=cbrops)
