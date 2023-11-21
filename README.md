@@ -2,7 +2,7 @@
 
 
 ## [Cybersecurity Operations Fundamentals Specialization](https://www.coursera.org/specializations/cbrops)
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/specialization/S3Q3XJJRMX9E_
 #
 
 ### 1. [Security Operations Center (SOC)](https://www.coursera.org/learn/security-operations-center-soc?specialization=cbrops)
@@ -37,7 +37,7 @@
 
 ### 7. [Threat Response](https://www.coursera.org/learn/threat-response?specialization=cbrops)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/XTL2HD6M9HWU_
 #
 
 
